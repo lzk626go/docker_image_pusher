@@ -1,1 +1,2 @@
-ubuntu:latest
+node:14 
+--platform=linux/arm64
