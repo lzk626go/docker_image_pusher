@@ -1,2 +1,1 @@
-node:14 
---platform=linux/arm64
+--platform=linux/arm64 node:14 
