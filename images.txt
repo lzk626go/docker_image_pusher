@@ -1,1 +1,1 @@
---platform=linux/arm64 node:14 
+mysql:8.0
