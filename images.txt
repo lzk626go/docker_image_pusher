@@ -1,1 +1,1 @@
-calico/node:v3.21.6
+kubeedge/cloudcore:v1.13.0
