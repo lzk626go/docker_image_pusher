@@ -1,1 +1,1 @@
-kubeedge/cloudcore:v1.13.0
+kubeedge/iptables-manager:v1.13.0
