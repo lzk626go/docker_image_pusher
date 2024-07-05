@@ -1,1 +1,1 @@
-docker.io/gocrane/crane-scheduler:0.0.23
+prom/prometheus:v2.2.1
