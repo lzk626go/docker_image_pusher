@@ -1,1 +1,1 @@
-utkuozdemir/nvidia_gpu_exporter:1.1.0
+--platform=linux/arm64 utkuozdemir/nvidia_gpu_exporter:1.1.0
