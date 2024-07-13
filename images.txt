@@ -1,1 +1,1 @@
-grafana/grafana:8.3.5
+utkuozdemir/nvidia_gpu_exporter:1.1.0
