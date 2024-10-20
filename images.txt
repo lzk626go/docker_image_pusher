@@ -1,1 +1,1 @@
- bitnami/zookeeper:latest
+--platform=linux/arm64 docker.io/calico/cni:v3.21.6
