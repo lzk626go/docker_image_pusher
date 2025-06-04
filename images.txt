@@ -1,1 +1,1 @@
---platform=linux/arm64 calico/kube-controllers:v3.21.6
+tonistiigi/binfmt
