@@ -1,1 +1,1 @@
-docker.io/library/node:20.9.0  
+openapitools/openapi-generator-cli:latest
