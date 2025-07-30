@@ -1,1 +1,1 @@
-kestra/kestra:latest
+mysql:8.4.5
