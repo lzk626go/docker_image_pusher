@@ -1,1 +1,1 @@
-nsqio/nsq:v1.2.1
+minio/mc:RELEASE.2025-05-21T01-59-54Z-cpuv1
