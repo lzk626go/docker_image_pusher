@@ -1,1 +1,1 @@
-opencoze/opencoze:latest
+debian:bookworm-slim
