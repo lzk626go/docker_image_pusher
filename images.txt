@@ -1,1 +1,1 @@
-debian:bookworm-slim
+busybox:latest
